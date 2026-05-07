@@ -1,19 +1,22 @@
-# 👋 Hola, soy Adrián Fernández
+# 👋 Hi, I'm Adrian Fernandez
 
-🎓 Ingeniero en Sistemas (en proceso de graduación)  
-💻 Desarrollador Full-Stack  
-🌐 Enfocado en Bases de Datos, Backend y Redes (CCNA)
+🎓 Systems Engineering Student (Graduation in Progress)
+💻 Full-Stack Developer
+🌐 Focused on Databases, Backend Development, and Networking (CCNA)
 
-## 🚀 Tecnologías
-- C# / .NET
-- Java / Python
-- SQL Server / MySQL
-- Redes Cisco (VLANs, OSPF, RIP)
+## 🚀 Technologies
 
-## 📌 Proyectos Destacados
-🔹 Sistema de Gestión Empresarial (Inventario y Ventas)  
-🔹 Simulación de Redes con Cisco Packet Tracer  
+* C# / .NET
+* Java / Python
+* SQL Server / MySQL
+* Cisco Networking (VLANs, OSPF, RIP)
 
-## 📫 Contacto
-- Email: adrianfdz2003@gmail.com
-- LinkedIn: [www.linkedin.com/in/adrian-fernández-3a449432b]
+## 📌 Featured Projects
+
+🔹 Business Management System (Inventory & Sales)
+🔹 Network Simulation with Cisco Packet Tracer
+
+## 📫 Contact
+
+* Email: [adrianfdz2003@gmail.com]
+* LinkedIn: [www.linkedin.com/in/adrian-fernández-3a449432b]
