@@ -19,4 +19,4 @@
 ## 📫 Contact
 
 * Email: [adrianfdz2003@gmail.com]
-* LinkedIn: [www.linkedin.com/in/adrian-fernández-3a449432b]
+* LinkedIn: [www.linkedin.com/in/adrian-fernandez-dev]
